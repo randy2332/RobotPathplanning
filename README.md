@@ -35,8 +35,8 @@ run main.m
 
 a) **joint move**
 
-![3DPathofJointSpacePlanning.png](https://github.com/randy2332/RobotPathplanning/blob/main/Pic/3DPathofJCartesianSpacePlanning.png)
+![3DPathofJointSpacePlanning.png](https://github.com/randy2332/RobotPathplanning/blob/main/Pic/3DPathofJointSpacePlanning.png)
 
 b)**cartesian move**
 
-![3DPathofJCartesianSpacePlanning.png](https://github.com/randy2332/RobotPathplanning/blob/main/Pic/3DPathofJointSpacePlanning.png)
+![3DPathofJCartesianSpacePlanning.png](https://github.com/randy2332/RobotPathplanning/blob/main/Pic/3DPathofJCartesianSpacePlanning.png)
